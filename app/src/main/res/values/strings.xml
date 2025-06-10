@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheTest</string>
+    <string name="enter_number_of_points">Введите количество точек</string>
+    <string name="proceed">Продолжить</string>
+    <string name="error_wrong_number_of_points">Ошибка сервера: неправильное количество точек</string>
+    <string name="error_no_internet">Ошибка: нет соединения с интернетом</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="go_home">Вернуться на главную</string>
+</resources>
