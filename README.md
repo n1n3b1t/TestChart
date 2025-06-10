@@ -10,3 +10,5 @@ This project uses
 It supports both orientations, light/dark/dynamic themes.
 Scaling and zooming is supported as well.
 ![Alt Text](./demo/animation.gif)
+## How to run
+[APK](./demo/app-debug.apk)
